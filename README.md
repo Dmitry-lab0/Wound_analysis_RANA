@@ -6,45 +6,23 @@
 
 # News
 - Release code
-- Add brush and eraser tool
 
 # TODO List
-- [x] Save current masks
-- [x] Zoom in and zoom out
-- [x] Brush tool and eraser tool
-- [ ] Save masks in coco format
+- [x] Perimeter calculation
+- [x] Area calculation
+- [x] 3D models
+- [ ] Volume calculation - in processing
 
 # Features
-
-- Preview Images
-- Multi-View Switch
-- SAM Point Segmentation
 - SAM Box Segmentation
-- SAM Auto Segmentation
-- Undo
-- Clear
-- Save Masks
-- Zoom in / out
-- Find shortcuts when mouse hovering on buttons!
-- Press ctrl to drag the zoomed image
-- Press alt to change the brush to eraser
-- You can find shortcuts when mouse hovering on buttons!
+- Photo editing app
+- Depth calculation
+- Perimeter calculation
+- Area calculation
+- 3D models
 
 # Install
-The code requires `python>=3.8`, as well as `pytorch>=1.7` and `torchvision>=0.8`. Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies. Installing both PyTorch and TorchVision with CUDA support is strongly recommended.
-
-We have tested:
-`Python 3.8`
-`pytorch 2.0.0 (py3.8_cuda11.7_cudnn8.5.0_0)`
-`torchvision 0.15.0`
-
-```bash
-git clone https://github.com/derekray311511/SAM-webui.git
-cd SAM-webui; pip install -e .
-```
-```bash!
-pip install opencv-python pycocotools matplotlib onnxruntime onnx flask flask_cors
-```
+The code requires `python>=3.10`,  and `torchvision>=0.15`. Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies. Installing both PyTorch and TorchVision with CUDA support is strongly recommended.`
 
 ## Model Checkpoints
 You can download the model checkpoints [here](https://github.com/facebookresearch/segment-anything#model-checkpoints).  
