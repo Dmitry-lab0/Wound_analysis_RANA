@@ -44,6 +44,12 @@ python app.py --model_type vit_h --checkpoint ../models/sam_vit_h_4b8939.pth --d
 
 The app is licensed under the [Apache 2.0 license](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/LICENSE).
 
+# Contributing
+
+Need a lot of help in making the UI better.
+When creating an issue, please include as much detail as possible, including steps to reproduce the issue if applicable.
+Create a pull request (PR) to the original repository. Please use black formatter when making code changes.
+
 # Credits
 
 - Segment-Anything - https://github.com/facebookresearch/segment-anything
