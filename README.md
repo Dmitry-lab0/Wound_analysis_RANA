@@ -50,6 +50,10 @@ Need a lot of help in making the UI better.
 When creating an issue, please include as much detail as possible, including steps to reproduce the issue if applicable.
 Create a pull request (PR) to the original repository. Please use black formatter when making code changes.
 
+# Acknowledgements
+
+Our work builds on and uses code from [timm](https://github.com/huggingface/pytorch-image-models) and [Next-ViT](https://github.com/bytedance/Next-ViT). We'd like to thank the authors for making these libraries available.
+
 # Credits
 
 - Segment-Anything - https://github.com/facebookresearch/segment-anything
