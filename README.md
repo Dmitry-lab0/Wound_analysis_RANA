@@ -53,3 +53,4 @@ Create a pull request (PR) to the original repository. Please use black formatte
 # Credits
 
 - Segment-Anything - https://github.com/facebookresearch/segment-anything
+- MiDas - https://github.com/isl-org/MiDaS
