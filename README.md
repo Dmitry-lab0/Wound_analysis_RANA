@@ -1,6 +1,7 @@
 # RANA 0.1
 ![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/image5.png?raw=true)
 ![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/image3.png?raw=true)
+![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/image4.png?raw=true)
 ![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/image6.png?raw=true)
 
 # News
