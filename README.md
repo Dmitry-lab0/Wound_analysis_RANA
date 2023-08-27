@@ -27,7 +27,7 @@ The aim of our project is to create software for the analysis of wounds from pho
 The code requires `python>=3.10`,  and `torchvision>=0.15`. Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies. Installing both PyTorch and TorchVision with CUDA support is strongly recommended.`
 
 ## Model Checkpoints
-You can download the model checkpoints [here](https://github.com/facebookresearch/segment-anything#model-checkpoints).  
+You can download the model checkpoints [here](https://github.com/facebookresearch/segment-anything#model-checkpoints) for SAM and [here](https://drive.google.com/drive/folders/1vteIYoWKHEvI0jz8wWF5r-3W0wSvDgXt?usp=sharing) for depth estimation.  
 
 # Run
 
