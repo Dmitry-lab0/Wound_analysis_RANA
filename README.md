@@ -42,7 +42,7 @@ python app.py --model_type vit_h --checkpoint ../models/sam_vit_h_4b8939.pth --d
 ```
 # License
 
-The model is licensed under the Apache 2.0 license.
+The model is licensed under the [Apache 2.0 license](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/LICENSE).
 
 # Credits
 
