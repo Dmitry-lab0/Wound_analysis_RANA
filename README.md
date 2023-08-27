@@ -1,8 +1,5 @@
 # SAM-webui
 ![]([http://url/to/img.png](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/image1.png)
-<img src="https://user-images.githubusercontent.com/84118285/232520000-6606629d-f375-4fe7-b88f-b08f0eb64321.gif" width="600"/>
-<img src="https://user-images.githubusercontent.com/84118285/232520088-47c8879a-2c0f-45cf-aa1e-acd5a6a8591a.gif" width="600"/>
-<img src="https://user-images.githubusercontent.com/84118285/233614241-d43ad1cd-29c4-437d-86db-9e095710f44e.gif" width="600"/>
 
 # News
 - Release code
