@@ -1,10 +1,11 @@
 # RANA 0.1
 The aim of our project is to create software for the analysis of wounds from photographs
 
-![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/image7.png?raw=true)
-![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/image3.png?raw=true)
-![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/image4.png?raw=true)
-![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/image6.png?raw=true)
+![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/image_1.png?raw=true)
+![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/mask_1.png?raw=true)
+![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/image_2.png?raw=true)
+![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/mask_2.png?raw=true)
+![](https://github.com/Dmitry-lab0/Wound_analysis_RANA/blob/main/images/depth.png?raw=true)
 
 # News
 - Release code
